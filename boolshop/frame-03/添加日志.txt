@@ -1,0 +1,6 @@
+init.php  //过滤参数,用递归的方式过滤$_GET,$_POST,$_COOKIE
+_addslashes($arr)
+
+01.php无限极分类
+
+
